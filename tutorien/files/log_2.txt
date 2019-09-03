@@ -1,0 +1,4 @@
+1,Computerlogbuch der USS Enterprise;Captain Picard;Sternzeit 41153.8:Es ist nichts nennenswertes passiert.
+2,Computerlogbuch der USS Enterprise;Captain Picard;Sternzeit 41209.2:Wir fliegen mit Warp 7 zu einem Treffen mit dem Forschungsschiff Tsiolkovsky.
+4,Computerlogbuch der USS Enterprise;Captain Picard;Sternzeit 41209.9:Unsere Logbuchsoftware funktioniert nicht richtig und vertauscht gelegentlich Einträge.
+3,Computerlogbuch der USS Enterprise;Captain Picard;Sternzeit 41209.3:Der unheimliche Wirkstoff, der zum Tod der Tsiolkovsky-Mannschaft geführt hat, befindet sich auch an Bord der Enterprise.
