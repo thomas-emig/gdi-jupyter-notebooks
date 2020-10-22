@@ -11,3 +11,7 @@ Jupyter notebooks to teach python. Most of the contained exercises are based on 
 
 * Go to https://mybinder.org/ and enter the repo URL (https://github.com/thomas-emig/gdi-jupyter-notebooks)
 * Click on Launch and wait until server starts
+
+## Contributors
+
+- Prof. Carsten Franke
